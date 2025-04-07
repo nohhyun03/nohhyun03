@@ -1,10 +1,14 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<!--<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" /> -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align=center>
   <a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **nohhyun03/nohhyun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
