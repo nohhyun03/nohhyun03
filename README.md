@@ -4,7 +4,9 @@
 
 
 <div align=center>
-  <a href="https://github.com/nohhyun03" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+
+  <a href="https://github.com/nohhyun03" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://https://velog.io/@nohhyun03/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
 
