@@ -4,7 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 설명이 있는 배지 -->
+<a href="https://github.com/nohhyun03" target="_blank"><img src="https://img.shields.io/badge/PROFILE-github%20blog%20-ff69b4/></a>
 
 <!--
 **nohhyun03/nohhyun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
