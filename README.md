@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Wellcome%20to%20my%20Github&height=150&fontSize=60&desc=Hyunseok&descAlignY=75&descAlign=60)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Wellcome%20to%20my%20Github&height=150&fontSize=60)
 </p>
 
 
