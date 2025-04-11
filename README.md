@@ -1,16 +1,23 @@
 <p align="center">
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=MY%20PROFILE&height=150&fontSize=60)
+  ![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=PROFILE&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+
+
 </p>
+
+  
 
 
 <div align=center>
 
   <a href="https://github.com/nohhyun03" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@nohhyun03/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://instagram.com/03_hyunseok" target="_blank"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&&logoColor=white"></a>
+  
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nohhyun0730)](https://solved.ac/nohhyun0730/)
 </div>
 <!--
 **nohhyun03/nohhyun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
