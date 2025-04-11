@@ -1,9 +1,7 @@
 <p align="center">
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Wellcome%20to%20my%20Github&height=150&fontSize=60)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=MY PROFILE&height=150&fontSize=60)
 </p>
-
-
 
 
 <div align=center>
