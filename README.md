@@ -11,7 +11,7 @@ I'm currently in the process of learning C++ and version management. <br>
 Becoming a full stack developer is my goal.
 <br><br><br>
 
-<strong>🌐language🌐</strong><br><br>
+<strong>🌐Language🌐</strong><br><br>
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 <br><br><br>
