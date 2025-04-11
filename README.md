@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=MY PROFILE&height=150&fontSize=60)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=MY%20PROFILE&height=150&fontSize=60)
 </p>
 
 
