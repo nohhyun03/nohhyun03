@@ -25,7 +25,7 @@ Becoming a full stack developer is my goal.
 
 <strong>📫Contact📫</strong><br><br>
   <a href="https://velog.io/@nohhyun03/posts" target="_black"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="https://instagram.com/03_hyunseok" target="_blank"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/gustjr_nohh" target="_blank"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <img src="https://img.shields.io/badge/nohhyun03@gmail.com-EA4335?style=for-the-badge&&logo=gmail&logoColor=white">
 <br><br><br>
 
