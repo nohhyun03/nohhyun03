@@ -4,12 +4,6 @@
 </p>
 
 <div align=center>
-<strong>🙋‍♂About me🙋‍♂</strong><br><br>
-I'm majoring in Computer Engineering. <br>
-I'm currently in the process of learning Spring Framework and DataBase.<br>
-Becoming a Backend developer is my goal.
-<br><br><br>
-
 <strong>🌐Language🌐</strong><br><br>
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
@@ -30,8 +24,6 @@ Becoming a Backend developer is my goal.
 <br><br><br>
 
 <strong>📈Stats📈</strong><br><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhyun03)](https://github.com/anuraghazra/github-readme-stats)
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nohhyun0730)](https://solved.ac/nohhyun0730/)
 </div>
 
