@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   
   ![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=WELLCOME&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
-</p>
+</p> -->
 
 <div align=center>
 <strong>🌐Language🌐</strong><br><br>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/nohhyun03@gmail.com-EA4335?style=for-the-badge&&logo=gmail&logoColor=white">
 <br><br><br>
 
-<strong>📈Stats📈</strong><br><br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nohhyun0730)](https://solved.ac/nohhyun0730/)
+<!-- <strong>📈Stats📈</strong><br><br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nohhyun0730)](https://solved.ac/nohhyun0730/) -->
 </div>
 
